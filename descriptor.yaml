@@ -1,0 +1,8 @@
+code: asset2
+description: asset2
+bundle-type: system-level-bundle
+components:
+  fragments: []
+  assets:
+    - assets/39/39-descriptor.yaml
+    - assets/37/37-descriptor.yaml
